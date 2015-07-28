@@ -1,0 +1,132 @@
+a {
+	color:#005826;
+	text-decoration:none;
+}
+
+a:hover {
+	color:#000000;
+}
+
+a:visited {
+	text-decoration:none;
+}
+
+body {
+	background:url("../images/bg5.jpg");
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size: 9pt;
+	background-repeat: repeat;
+	background-attachment:fixed;
+}
+ 
+button{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size: 9pt;
+}
+
+h1{
+	font-family:Tahoma, Geneva, sans-serif;
+	color:#005826;
+	margin-left:10px;
+	font-size:13pt;
+}
+
+.inputBox{
+	font-size: 11px;
+	font-family: "Calibri"
+	color: #333333;
+	background: #FFFF90;
+	border: 1px solid #FFFFFF;
+	padding-left: 1px;
+}
+
+select{
+	font-family:Tahoma, Geneva, sans-serif;
+	font-size: 9pt;
+}
+
+ul{
+	list-style-type: square;
+}
+
+.content{
+	background: url("../images/white.png") repeat scroll left top;
+	font-size: 9pt;
+	color:#000000;
+	font-family:Tahoma,sans-serif,Geneva,Verdana;
+	width:700px;
+	vertical-align: top;
+	//height:800px;
+	//position:absolute; top:30px; left:160px;
+}
+
+.footer{
+	font-family:Tahoma,sans-serif,Geneva,Verdana;
+	font-size:6pt;
+	//position:relative; top:1000px;
+	text-align:center;
+}
+
+.left{
+		text-indent:0px;
+		margin-left:20px;
+}
+
+.link2{
+	color:#FFFFFF;
+	text-decoration:none;
+}
+
+.link2:hover {
+	color:#7CC576;
+	text-decoration:none;
+}
+
+.post1{
+	//position:absolute; top:158px;
+	font-size: 9pt;
+	
+}
+
+.par{
+	text-align:left;
+	text-indent: 0px;
+}
+
+.qs2{
+	position:relative; top:170px; left:5px;
+	width:auto;
+	height:10px;
+	font-size: 12pt;
+	font-family:Helvetica,sans-serif,Geneva,Tahoma,Verdana;
+	color:#F26522;
+}
+
+.shortcutBox{
+	background:url("../images/black.png") repeat scroll left top;	
+	font-size: 10pt;
+	color:#FFFFFF;
+	font-family:Tahoma,sans-serif,Geneva,Verdana;
+	vertical-align: top;
+	//height:700px;
+	width:200px;
+	//position:absolute; top:30px; left:0px;
+	text-indent: 10px;
+	padding-bottom: 30px;
+}
+
+.viewLinks{
+	font-family: "Calibri";
+	color: #00AA6B;
+	font-size: 11px;
+	font-weight: lighter;
+}
+
+.viewLinks:hover{
+	color: #003399;
+}
+
+
+#navigation1{
+	background: url("../images/button.png") scroll left top;
+}
